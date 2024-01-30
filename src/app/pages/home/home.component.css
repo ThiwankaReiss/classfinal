@@ -1,0 +1,20 @@
+/* .homeContainer{
+    background-color: rgb(240, 240, 240)!important;
+} */
+.buttonColor{
+    border-color:  #03045e !important;
+    color: #03045e;
+}
+.buttonColor.buttonColor:hover{
+    background-color: #03045e !important;
+    color: white;
+}
+
+.topic{
+    font-family: 'Times New Roman', Times, serif;
+    color: #03045e !important;
+}
+.para{
+    font-family: cursive;
+
+}
